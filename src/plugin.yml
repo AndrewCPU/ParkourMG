@@ -1,0 +1,6 @@
+name: ParkourMG
+main: net.Andrewcpu.Parkour.Main
+version: 1.0.0
+commands:
+   parkour:
+      permission: admin.*

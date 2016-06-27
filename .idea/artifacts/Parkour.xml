@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Parkour">
+    <output-path>J:/Servers/Minecraft/Mini Dev/plugins</output-path>
+    <root id="archive" name="Parkour.jar">
+      <element id="module-output" name="ParkourMG" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/MinigameAPI.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
